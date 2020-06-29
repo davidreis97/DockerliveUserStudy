@@ -6,6 +6,8 @@ This repository contains all the artifacts used in the Dockerlive user study.
 
 - `/Instructions`
     - Contains the documents with rules for the user study, a list of all the features available in each environment and the instructions for each task.
+- `/Jupyter Notebook`
+    - Contains the jupyter notebook used to analyse the data collected in the study.
 - `/Questionnaire`
     - Contains the questionnaire answered by the participants.
 - `/Responses`
