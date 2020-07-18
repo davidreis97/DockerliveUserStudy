@@ -1,5 +1,7 @@
 # Dockerlive User Study Replication Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3951166.svg)](https://doi.org/10.5281/zenodo.3951166)
+
 This repository contains all the artifacts used in the Dockerlive user study.
 
 ## Motivation
